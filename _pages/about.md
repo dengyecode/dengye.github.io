@@ -23,36 +23,27 @@ I am currently an Assistant Professor at the [School of Computing and Artificial
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.02*: &nbsp;🎉🎉 The paper "Context Adaptive Network for Image Inpainting" is accepted by IEEE TIP. 
+
 
 # 📝 Publications 
+- Wenli Huang, **Ye Deng**, Siqi Hui, Yang Wu, Sanping Zhou, and *Jinjun Wang. "Sparse self-attention transformer for image inpainting." Pattern Recognition (2024).
+- **Ye Deng**, Siqi Hui, Sanping Zhou, Wenli Huang, and *Jinjun Wang. "Context Adaptive Network for Image Inpainting." IEEE Transactions on Image Processing (2023).
+- **Ye Deng**, Siqi Hui, Rongye Meng, Sanping Zhou, and Jinjun Wang. "Hourglass attention network for image inpainting." ECCV 2022.
+- **Ye Deng**, Siqi Hui, Sanping Zhou, Deyu Meng, and Jinjun Wang. "T-former: An efficient transformer for image inpainting." ACM MM 2022
+- **Ye Deng**, Siqi Hui, Sanping Zhou, Deyu Meng, and Jinjun Wang. "Learning contextual transformer network for image inpainting."  ACM MM 2021.
+- **Ye Deng**, and Jinjun Wang. "Image inpainting using parallel network." ICIP 2020.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# 🎖 Activities & Services
+Reviewing for:
+- Conference on Computer Vision and Pattern Recognition (CVPR) (2021-2024)
+- European Conference on Computer Vision (ECCV) (2022，2024)
+- International Conference on Computer Vision (ICCV) (2021,2023)
+- Conference on Neural Information Processing Systems (NeurIPS) (2024)
+- Pattern Recognition
+- IEEE Transactions on Circuits and Systems for Video Technology
+- Knowledge-Based Systems
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
