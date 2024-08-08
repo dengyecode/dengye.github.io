@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Deng Ye (邓烨)"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Assistant Professor at SWUFE, SChhol of Computing and AI. Focusing on ML and CV"
 repository               : "dengyecode/dengye.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : dengye code # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
